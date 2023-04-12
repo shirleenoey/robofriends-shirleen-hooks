@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends-shirleen-hooks/static/css/main.c0e88aa2.css",
+    "main.js": "/robofriends-shirleen-hooks/static/js/main.3e3c2548.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends-shirleen-hooks/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/robofriends-shirleen-hooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robofriends-shirleen-hooks/index.html",
+    "main.c0e88aa2.css.map": "/robofriends-shirleen-hooks/static/css/main.c0e88aa2.css.map",
+    "main.3e3c2548.js.map": "/robofriends-shirleen-hooks/static/js/main.3e3c2548.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends-shirleen-hooks/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e88aa2.css",
+    "static/js/main.3e3c2548.js"
+  ]
+}
